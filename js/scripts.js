@@ -2,23 +2,7 @@
 
 
 /*
-vvv.Important do not delete.....
-   Table Of Content
-
-   1. Preloader
-   2. Smooth Scroll
-   3. Scroll Naviagation Background Change with Sticky Navigation
-   4. Mobile Navigation Hide or Collapse on Click
-   5. Scroll To Top
-   6. Typed.js
-   7. Parallax Background
-   8. Portfolio Filtering
-   9. Magnific Popup
-  10. Testimonial Carousel/Slider
-  11. Statistics Counter
-  12. Google Map
-
-
+All functions...
 */
 
 
@@ -101,8 +85,7 @@ vvv.Important do not delete.....
 
         $(window).load(function(){
         $(".typing").typed({
-            strings: ["I am A Freelancer.", "I Design Websites.", "I Live in New Delhi."],    /* You can change the home section typing text from
-	                                                                                            here and do not use "&" use "and" */
+            strings: ["I am A Freelancer.", "I Design Websites.", "I Live in New Delhi."],    /* For content On type of page */
             typeSpeed: 50
           });
          });
@@ -204,8 +187,8 @@ vvv.Important do not delete.....
             maptype: 'ROADMAP',
             markers:[
             {
-            address: "New Delhi",  /* You can change your address from here */
-            html: "<b>Address</b>: <br> A-1 Block SantNagar, New Delhi, India",   /* You can change display address text from here */
+            address: "New Delhi",
+            html: "<b>Address</b>: <br> A-1 Block SantNagar, New Delhi, India",
             popup: true
             }
             ]

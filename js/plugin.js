@@ -1,19 +1,3 @@
-/* Table Of Content 
-
-  1. Bootstrap
-  2. Magnific Popup
-  3. MixItUp
-  4. Stellar.js
-  5. Owl Carousel
-  6. Typed.js
-  7. Jquery Appear
-  8. CountTo
-  9. Google Map
-
-*/
-
-
-
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
